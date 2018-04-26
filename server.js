@@ -28,9 +28,9 @@ app.get(/^(.+)$/, function(req, res){
     }
 });
 
-const portNumber = 1234;
+var port = process.env.PORT || 3000;
 
-app.listen(portNumber, function(){
+app.listen(port, function(){
     console.log("Server running..");
-    console.log("Running on localhost:" + portNumber);
+    console.log("Running on localhost:" + port);
 });
