@@ -1,0 +1,32 @@
+{
+    "Cycle Test and End Semester Schedule": {
+        "description": "Cycle Test and End Semester Schedule of AY 2017-18 for VI, IV and II Semester",
+        "url": "/downloads/EVEN_EXAM SCHEDULE_2017_18.pdf",
+        "isNew": true
+    },
+    "Inauguration of 2017-18 batch": {
+        "description": "Inauguration of 2017-18 batch scheduled on 3rd August, 2017.",
+        "url": "",
+        "isNew": false
+    },
+    "Orientation Program for 1st Year": {
+        "description": "Orientation Program for I year is scheduled on 3rd August, 2017.",
+        "url": "",
+        "isNew": false
+    },
+    "Atrang 2017": {
+        "description": "Atrang 2017 is on 13th April, 2017.",
+        "url": "http://atrang.org",
+        "isNew": false
+    },
+    "Institute Day": {
+        "description": "Institute Day is on 7th April, 2017.",
+        "url": "/festivals",
+        "isNew": false
+    },
+    "IIITDMJ inter-IIIT Techno Cultural Festival": {
+        "description": "Join inter- IIIT Techno - Cultural Fest, by IIITDMJ from 23rd to 26th March, 2017.",
+        "url":"http://iiitdmjfest.org/",
+        "isNew": false
+    }
+}

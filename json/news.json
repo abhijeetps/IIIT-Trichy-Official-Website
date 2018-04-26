@@ -1,0 +1,27 @@
+{
+    "Minutes of The BOG Meetings": {
+        "description": "Minutes of The five BOG Meetings have been uploaded here.",
+        "url": "/administration",
+        "isNew": true
+    },
+    "Admission for B.Tech. program 2017": {
+        "description": "Physically Reporting period starts from 22nd to 26th July, 2017.",
+        "url": "/admission",
+        "isNew": false
+    },
+    "JoSAA Choice Filling": {
+        "description": "JoSAA Registration and Choice Filling starts from 15th to 26th June, 2017.",
+        "url": "http://josaa.nic.in",
+        "isNew": false
+    },
+    "Seminar Talk on The Technical Challenges and Opportunities in Banking Services after Demonetization": {
+        "description": "On 14th March 2017, seminar talk on The Technical Challenges and Opportunities in Banking Services after Demonetization will be delivered by Mr. Subramanian, Chief Information Officer & Head of Technology (South Asia), Citi Group.",
+        "url": "",
+        "isNew": false
+    },
+    "Seminar Talk on Protecting Indian Cyber Space and its Critical Information Infrastructure from Hackers": {
+        "description": "On 6th March 2017, a seminar talk on Protecting Indian Cyber Space and its Critical Information Infrastructure from hackers will be delivered by Mr. Ramanarayasamy, Co-founder of Senzwiz Technologies.",
+        "url":"",
+        "isNew": false
+    }
+}

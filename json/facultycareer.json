@@ -1,0 +1,54 @@
+{
+    "IIITT Non Teaching Recruitment Detailed Advertisment Application Form.pdf":{
+        "description": "Advertisement for Non Teaching Recruitment",
+        "url": "/downloads/IIITT-Non_Teaching_Recruitment-Detailed_Advertisment-Application_Form.pdf",
+        "isNew" : true
+    },
+
+    "IIITT Temporary Faculty Selected Candidates - CSE Department" : {
+        "description": "List of Candidates selected for IIITT Temporary Faculty - CSE Department.",
+        "url": "/downloads/IIITT-TF-Selected-Candidates-CSE.pdf",
+        "isNew" : true
+    },
+    "IIITT Temporary Faculty Selected Candidates - ECE Department" : {
+        "description": "List of Candidates selected for IIITT Temporary Faculty - ECE Department.",
+        "url": "/downloads/IIITT-TF-Selected-Candidates-ECE.pdf",
+        "isNew" : true
+    },
+    "IIITT Temporary Faculty Shortlisted Candidates for Interview - CSE Department" : {
+        "description": "List of Candidates shortlisted for IIITT Temporary Faculty Interview (CSE).",
+        "url": "/downloads/IIITT-TF-CSE-Shortlist-Interview.pdf",
+        "isNew" : false
+    },
+    "IIITT Temporary Faculty Shortlisted Candidates for Interview - ECE Department" : {
+        "description": "List of Candidates shortlisted for IIITT Temporary Faculty Interview (ECE).",
+        "url" : "/downloads/IIITT-TF-ECE-Shortlist-Interview.pdf",
+        "isNew" : false
+    },
+    "IIITT Temporary Faculty Selection Written Test - Seating Arrangements" : {
+        "description": "Seating Arrangement for IIITT Temporary Facluty Selection Written Examination.",
+        "url" : "/downloads/IIITT-TF-WrittenTest-SeatingArragments.pdf",
+        "isNew" : false
+    },
+    "Shortlisted candidates for IIITT Temporary Faculty Recruitment Notification No.01/2017 (CSE)" : {
+        "description": "List of shortlisted candidates for IIITT Temporary Faculty Recruitment for CSE.",
+        "url" : "/downloads/IIITT-TF-CSE-Shortlisted.pdf",
+        "isNew" : false
+    },
+    "Shortlisted candidates for IIITT Temporary Faculty Recruitment Notification No.01/2017 (ECE)" : {
+        "description": "List of shortlisted candidates for IIITT Temporary Faculty Recruitment for ECE.",
+        "url" : "/downloads/IIITT-TF-ECE-Shortlisted.pdf",
+        "isNew" : false
+    },
+    "Syllabus for IIITT Temporary Faculty Recruitment Notification No.01/2017 (CSE and ECE) *Revised*" : {
+        "description": "Syllabus for IIITT Temporary Faculty Recruitment forboth CSE and ECE.",
+        "url" : "/downloads/IIITT-Temp-Faculty-2017-Syllabus-CSE-ECE.pdf",
+        "isNew" : false
+    },
+    "IIITT Temporary Faculty Recruitment Notification No.01/2017 *Revised*" : {
+        "description": "Advertisement of IIITT Temporary Faculty Recruitment.",
+        "url" : "/downloads/IIITT-Temp-Faculty-2017-v2.pdf",
+        "isNew" : false
+    }
+
+}
